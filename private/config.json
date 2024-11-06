@@ -1,0 +1,18 @@
+{
+    "targets": [
+        {
+            "type": "confluence",
+            "host": "https://company.confluence.domain",
+            "port": 3000,
+            "location": "spaces/spacekey",
+            "token": "ConfTokenName"
+        },
+        {
+            "type": "sharepoint",
+            "host": "https://company.sharepoint.domain",
+            "port": 8080,
+            "location": "sites/SiteName",
+            "token": "SPTokenName"
+        }
+    ]
+}
